@@ -6,4 +6,4 @@
 
 ## Week 5 / Homework 1
 
-[Here](files/hw1.html) are my interesting 5 forecasting examples using R !
+[Here](files/hw1.html) is my homework that is about “Data Visualization and Google Trends on Three Different Measures from Turkey”. using R !
