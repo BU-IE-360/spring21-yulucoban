@@ -1,5 +1,5 @@
 ---
-title: "Time Series Regression for Predicting Macroeconomic Indicators"
+title: "Time Series Regression for Predicting Macroeconomic Indicator: Purchase of Vehicles"
 author: "Yusuf Ulucoban - Spring 2021 - IE360"
 date: "26 04 2021"
 output: html_document
