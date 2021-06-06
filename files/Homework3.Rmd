@@ -152,6 +152,7 @@ tsdata=ts(elecdt_daily$diff1and7,frequency = 7)
 plot(tsdata, main="Time Series of Adjusted Consumption", col = "palegreen1")
 ```
 
+Here, making the frequency 7 turned out that it is the best way to examine. When the frequency equals 30 to reduce monthly effects, the model becomes less desirable.
 Above, you can see the ts plot of adjusted consumption. When we examine the plot, we can say that variance does not increases over time. Therefore, we prefer to use additive decomposition instead of multiplicative decomposition method.
 
 ```{r decompose, echo=FALSE}
@@ -281,7 +282,7 @@ AIC(bestmodel) #AIC
 BIC(bestmodel) #BIC
 ```
 
-ARIMA(3,0,4) model will be used to forecast the electricity consumption between 6th of May and 20th of May in 2021.
+ARIMA(3,0,5) model will be used to forecast the electricity consumption between 6th of May and 20th of May in 2021.
 
 ```{r forecast , message=FALSE, warning=FALSE, echo=FALSE}
 model_forecasted=predict(bestmodel, n.ahead = 14)$pred
