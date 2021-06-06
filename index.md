@@ -13,3 +13,8 @@
 ## Week 8 / Homework 2
 
 [Here](files/Homework2.html) is my homework that is about “Time Series Regression for Predicting Macroeconomic Indicator: Purchase of Vehicles”. using R !
+
+
+## Week 11 / Homework 3
+
+[Here](files/Homework3.html) is my homework that is about “Stationarity of Electricity Consumption Data in Turkey over 2016-2021 and Predictions of Daily Consumptions”. using R !
