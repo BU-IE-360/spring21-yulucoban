@@ -20,9 +20,9 @@
 [Here](files/Homework3.html) is my homework that is about “Stationarity of Electricity Consumption Data in Turkey over 2016-2021 and Predictions of Daily Consumptions” using R !
 
 
-## Week 14 / Homework 3
+## Week 14 / Homework 4_5
 
-[Here](files/Homework4_5.html) is my homework that is about “Decomposition of Trendyol Sales Project Data” using R !
+[Here](files/Homework_4_5.html) is my homework that is about “Decomposition of Trendyol Sales Project Data” using R !
 
 
 ## Week 16 / Project
